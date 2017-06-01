@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace BuildMonitor
 {
-    public partial class App : Application
+    public partial classy App : Application
     {
         public App()
         {
